@@ -62,6 +62,17 @@ Running a statistical Pearson correlation analysis over the merged features reve
 ### Visual Discoveries (Logarithmic Regression Adjustments)
 Because the raw infection rates scaled exponentially, a logarithmic transform (`np.log(y)`) was applied during visualization using Seaborn scatterplots and regression plots (`sns.regplot`):
 
+
+
 * **Socioeconomic Vulnerability:** Countries boasting higher **GDP per capita** and stronger **Social support** systems exhibited an upward trend in maximum infection rates.
 * **The Longevity Paradox:** There is a clear positive linear relationship when plotting **Healthy Life Expectancy vs. Maximum Infection Rate**. 
 * **Conclusion Summary:** Developed nations likely experienced faster documented spreads due to extensive global travel hubs, highly urbanized populations, and significantly more aggressive testing/reporting infrastructure compared to lower-ranking nations.
+
+---
+
+## 🎓 Acknowledgments & Course Credit
+This project was completed as part of a **Coursera Guided Project**. 
+* **Course:** *Covid19 Data Analysis Using Python*
+* **Instructor:** [Ahmad Varasteh]
+* **Platform:** Coursera
+* **Skills Gained:** Data merging, time-series feature engineering, logarithmic transformations, and correlation plotting.
