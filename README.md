@@ -73,6 +73,6 @@ Because the raw infection rates scaled exponentially, a logarithmic transform (`
 ## 🎓 Acknowledgments & Course Credit
 This project was completed as part of a **Coursera Guided Project**. 
 * **Course:** *Covid19 Data Analysis Using Python*
-* **Instructor:** [Ahmad Varasteh]
+* **Instructor:** Ahmad Varasteh
 * **Platform:** Coursera
 * **Skills Gained:** Data merging, time-series feature engineering, logarithmic transformations, and correlation plotting.
